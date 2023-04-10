@@ -1,0 +1,13 @@
+ANS 1 ) GIT is a version control system which track changes to source code overtime.
+whereas github is a web based hosting service for Git repository to bring team together.
+
+ANS 2) 
+GIT config : used to set GIT configuration values on a global or local project level. 
+GIT init : create an empty git repo or reinitialize an existing one
+GIT clone : clone a repo into a new directory
+GIT log : show commit logs
+GIT add : add file contents to the index
+
+ANS 3) 1 : from the repo, select the create button and select pull request in the this repo section of dropdown menu
+       2 : fill out the rest of pull request form
+       3 : click on create PR(Pull Request)
